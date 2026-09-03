@@ -10,7 +10,7 @@ Shelled `Ribeta` hazelnuts were packaged in bags of 12 nuts and monitored for 78
 - Light exposure: light and dark
 - Replicates: three per atmosphere-light combination
 
-Each bag was imaged at 23 time points using a line-mapping NIR hyperspectral camera covering 1000-1600 nm at 142 wavelengths. The dataset may include bag-level images/spectra, individual-hazelnut segmentations, and associated experimental metadata.
+Each bag was imaged at 23 time points using a line-mapping NIR hyperspectral camera covering around 1000-1600 nm at 142 wavelengths. All the raw (black and white corrected) images of the bags can be found in the releases, compressed in smaller RAR files. The MeanDatasets.mat file contains the average spectra per bag and per hazelnut, with the associated experimental metadata.
 
 ## Purpose
 
